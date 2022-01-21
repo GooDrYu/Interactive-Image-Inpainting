@@ -1,4 +1,4 @@
 # Interactive-Image-Inpainting
-[Demo](http://www.baidu.com)
+[Demo](https://youtu.be/8bk0OamMaqE)
 
 Complete code will soon be uploaded after detailed inspection.
